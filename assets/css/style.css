@@ -1,7 +1,7 @@
 * {
   box-sizing: border-box;
 }
-
+/* TODO: I need to customize this styling - still using first portfolio assignment as a template */
 /* brand color palette */
 :root {
   --primary: rgba(68, 88, 119, 1);
@@ -85,7 +85,7 @@ main {
   margin-top: 20px;
   margin-bottom: 45px;
 }
-
+/* this is not in use. leftover code from template */
 .hero-banner {
   background: rgb(68, 88, 120);
   background-image: url("../images/02-hero-bg.jpg"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
@@ -218,7 +218,7 @@ main {
   background-size: 100% 88%;
   color: var(--secondary);
 }
-
+/* TODO: update project images with screenshots of deployed apps*/
 /* portfolio project images */
 .run-buddy {
   background-image: url("../images/02-run-buddy.jpg");
